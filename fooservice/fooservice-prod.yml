@@ -1,4 +1,4 @@
-example.property: "this is dev profile"
+example.property: "this is devddddddddd profile"
 spring.database.driverClassName: "org.h2.Driver"
 spring.datasource.url: "jdbc:h2:mem:"
 spring.datasource.username: "dev_name"
